@@ -17,7 +17,6 @@
     font-size: inherit;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
 }
 
 .fa-lg {
@@ -122,6 +121,7 @@
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg)
     }
+
     100% {
         -webkit-transform: rotate(359deg);
         transform: rotate(359deg)
@@ -133,6 +133,7 @@
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg)
     }
+
     100% {
         -webkit-transform: rotate(359deg);
         transform: rotate(359deg)
