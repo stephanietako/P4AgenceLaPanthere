@@ -753,8 +753,8 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #f3976c;
-    color: #3f3f3f !important;
+    background: #F3976C;
+    color: #FFFFFF !important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -894,7 +894,6 @@ h4 {
 
     .site-navigation {
         position: inherit;
-        -webkit-transform: none;
     }
 
     .nav>li {
