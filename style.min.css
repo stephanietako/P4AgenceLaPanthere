@@ -886,8 +886,8 @@ h4 {
     }
 
     .bloc {
-        padding-left: max (12px, env(safe-area-inset-left));
-        padding-right: max (12px, env(safe-area-inset-right))
+        padding-left: constant(safe-area-inset-left);
+        padding-right: constant(safe-area-inset-right);
     }
 
     .bloc-group,
@@ -899,8 +899,8 @@ h4 {
     .bloc-fill-screen .fill-bloc-bottom-edge,
     .bloc-fill-screen .fill-bloc-top-edge {
         padding: 0 20px;
-        padding-left: max (12px, env(safe-area-inset-left));
-        padding-right: max (12px, env(safe-area-inset-left));
+        padding-left: constant(safe-area-inset-left);
+        padding-right: constant(safe-area-inset-right);
     }
 }
 
